@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bogglez-tracker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bogglez_tracker_jar</output-path>
+    <root id="archive" name="bogglez-tracker.jar">
+      <element id="module-output" name="bogglez-tracker" />
+    </root>
+  </artifact>
+</component>
